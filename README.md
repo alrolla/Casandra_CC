@@ -40,3 +40,7 @@ https://dssat.net
 * Nombre de la BD: CASANDRACC
 * Acceso, Usuario y Contraseña: está en /datos/CasandraCC/php/db.php
 * Diseño de BD:
+
+<p align="center">
+  <img src="imgagenes/DB.png" width="600"/>
+</p>
