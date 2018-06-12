@@ -1,7 +1,6 @@
-Casandra_CC
+**CASANDRA-CC. Guía Técnica.
 
-#CASANDRA-CC. Guía Técnica.
-##Concepto: Plataforma web para el estudio de impacto y evaluación de medidas de adaptación al cambio climático.
+***Concepto: Plataforma web para el estudio de impacto y evaluación de medidas de adaptación al cambio climático.
 
 ##Documentación:
 • Para ver un esquema conceptual/funcional de la plataforma: https://www.dropbox.com/s/tub0mcaam89wfu1/Casandra.agMIP2.pdf?dl=0
