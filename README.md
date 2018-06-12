@@ -35,7 +35,7 @@
 * Sistema operativo: Linux (Debian).
 * Modelo de crecimiento de cultivo: DSSAT 4.6 , es un conjunto de más de 20 modelos de crecimiento de cultivos. Entre los que se encuentra maíz, soja, trigo y girasol. La fuente esta en archivo adjunto, y puede ser compilado con gfortran. Link a los modelos:
 https://dssat.net
-Compilador FORTRAN: Se puede usar gfortran ( disponible en Linux) , open source.
+* Compilador FORTRAN: Se puede usar gfortran ( disponible en Linux) , open source.
 * Directorio de la aplicación /datos/CasandraCC.
 * Nombre de la BD: CASANDRACC
 * Acceso, Usuario y Contraseña: está en /datos/CasandraCC/php/db.php
