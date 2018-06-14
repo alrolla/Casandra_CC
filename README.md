@@ -45,5 +45,5 @@ https://dssat.net
   <img src="imgagenes/DB.png" width="600"/>
 </p>
 
-. First ordered list item
-2. Another item
+1. First ordered list item
+  1. Another item
