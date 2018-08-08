@@ -42,7 +42,7 @@ https://dssat.net
 * Diseño de BD:
 
 <p align="center">
-  <img src="imgagenes/DB.png" width="600"/>
+  <img src="imagenes/DB.png" width="600"/>
 </p>
 
 1. First ordered list item
